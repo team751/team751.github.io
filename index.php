@@ -160,6 +160,8 @@
         </div>
       </div>
       
+      <hr class="featurette-divider">
+      
       <div class="row featurette">
         <div class="col-md-5">
           <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
@@ -169,6 +171,8 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
       </div>
+      
+      <hr class="featurette-divider">
       
       <div class="row featurette">
         <div class="col-md-7">
