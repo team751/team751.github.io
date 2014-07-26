@@ -1,0 +1,40 @@
+.navbar {
+  border-radius: 0px !important;
+}
+
+.navbar-fixed-top {
+    min-height: 60px;
+}
+
+.navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 60px;
+}
+
+@media (max-width: 767px) {
+    .navbar-nav > li > a {
+    line-height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;}
+}
+
+.sponsers div {
+  margin-bottom: 30px;
+}
+
+.sponser-liquidrobotics {
+  margin-top: -5px;
+}
+
+.sponser-techshop {
+  margin-top: -20px;
+}
+
+.sponser-gopro {
+  margin-top: 20px;
+}
+
+.sponser-usvp {
+  margin-top: 15px;
+}
